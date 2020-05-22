@@ -2,7 +2,7 @@
 title: "eg3"
 author: "samir"
 date: "5/21/2020"
-output: pdf_document
+output:markdown
 ---
 
 ```{r setup, include=FALSE}
